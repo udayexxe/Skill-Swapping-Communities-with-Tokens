@@ -10,6 +10,8 @@ The **Skill Swapping Communities with Tokens** project is a decentralized platfo
 ## Contract Address
 0x6f9e97C139631CFafa32CDD03d53CAB70628Df78
 
+![Screenshot 2024-12-21 142832](https://github.com/user-attachments/assets/6e674864-3d56-4f6c-a202-62320877067a)
+
 
 ## Project Vision
 The vision of this project is to foster a global, decentralized network where skills are the core currency. By eliminating intermediaries, the platform empowers users to collaborate, grow, and learn in an environment that values transparency, trust, and decentralization. The use of blockchain ensures that transactions are secure, immutable, and easily auditable.
